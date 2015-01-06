@@ -17,7 +17,7 @@ Introductions, logistics, project descriptions
 **In Class:** Role meetings
 
 ## Week 4 | Feb 24
-**Due:**
+**Due:** Draft project outreach plans
 
 **Presenting Project:** TBD
 
