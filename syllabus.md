@@ -3,7 +3,7 @@ MALS 75500/IDS  81640
 
 Tuesdays, 4:15-6:15, Room 6495
 
-Profs. Amanda Hickman <amanda.hickman@journalism.cuny.edu> and [Luke Waltzer](lwaltzer@gmail.com) (lwaltzer@gmail.com)
+Profs. Amanda Hickman (<amanda.hickman@journalism.cuny.edu>) and [Luke Waltzer](lwaltzer@gmail.com) (lwaltzer@gmail.com)
 
 
 
