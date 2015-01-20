@@ -1,11 +1,8 @@
 #Digital  Praxis  Seminar, Spring 2015
-MALS 75500/IDS  81640
 
-Tuesdays, 4:15-6:15, Room 6495
-
-Profs. Amanda Hickman (<amanda.hickman@journalism.cuny.edu>) and [Luke Waltzer](lwaltzer@gmail.com) (lwaltzer@gmail.com)
-
-
+> MALS 75500/IDS  81640
+> Tuesdays, 4:15-6:15, Room 6495
+> Profs. Amanda Hickman (<amanda.hickman@journalism.cuny.edu>) and [Luke Waltzer](lwaltzer@gmail.com) (lwaltzer@gmail.com)
 
 ##Overview
 Aiming to ensure that new students begin thinking about digital scholarship and teaching from the moment they enter the Graduate Center, this year-long sequence of two three-credit courses introduces a variety of digital tools and digital methods through lectures offered by high-profile scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and established a digital portfolio that can be used to display their work. The two connected three-credit courses will be offered during the Fall and Spring semesters as MALS classes for master’s students and Interdisciplinary Studies courses for doctoral students.
@@ -14,13 +11,18 @@ During the Fall 2014 semester, students explored the landscape of the digital hu
 
 The class will hold a public event at the end of the semester to launch its projects. Students should not think of their work as student projects, but rather as real entries into a public dialogue on the use of digital tools in and around the academy. All projects should have a trajectory and timeline of their own that extends beyond the course itself. The Spring term is inspired by the work of the Praxis Program at the University of Virginia, and made possible by support from the Graduate Center Provost’s Office and the GC Digital Fellows Program.
 
+#About the Faculty
+**Amanda Hickman** teaches data analysis and visualization at CUNY Graduate School of Jouranlism. She works at the intersection of journalism and civic engagement, and values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School and CUNY Graduate School of Journalism.
+
+**Luke Waltzer** is the director of the Center for Teaching and Learning at Baruch College, and a member of the faculty of the Graduate Center's Interactive Technology and Pedagogy Certificate Program. At Baruch he directs two ed tech software projects -- [Blogs@Baruch](http://blogs.baruch.cuny.edu), a large WordPress/Buddypress network, and [Vocat](http://vocat.io), a homegrown video and media evaluation platform -- that enhance teaching and learning at the College. He also supports Baruch's development of online and hybrid courses, co-coordinates the Writing Across the Curriculum program, and manages Quantitative Reasoning and Multimedia Fellows. Trained as a historian, he has published essays on the place of pedagogy in the digital humanities and on the integration of open source digital tools into undergraduate history curricula. He hass taught courses in cultural, social, and digital history, as well as both core courses in the GC's ITP program.
+
+#About the Course
 ## Learning Objectives
 Students will...
-
-* gain hands-on experience in the planning, production, and dissemination of a digital humanities project
-* work collaboratively in teams to produce all aspects of their chosen project.
-* occupy specific roles within their teams in accordance with their strengths and desires for learning.
-* document and reflect upon their progress through personal and team-based lab journals and public blogging on our course site.
+* gain hands-on experience in the planning, production, and dissemination of a digital humanities project  
+* work collaboratively in teams to produce all aspects of their chosen project.  
+* occupy specific roles within their teams in accordance with their strengths and desires for learning.  
+* document and reflect upon their progress through personal and team-based lab journals and public blogging on our course site.  
 * learn how to develop new skills independently.
 
 ## Requirements and Structure
@@ -45,19 +47,10 @@ Each student will keep an individual journal that should be used to catalogue we
 ## Project Report
 A final project report (15-20 pages) must be submitted by each team at the end of the semester.
 
-
-##About the Faculty
-
-**Amanda Hickman** teaches data analysis and visualization at CUNY Graduate School of Jouranlism. She works at the intersection of journalism and civic engagement, and values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School and CUNY Graduate School of Journalism.
-
-**Luke Waltzer** is the director of the Center for Teaching and Learning at Baruch College, and a member of the faculty of the Graduate Center's Interactive Technology and Pedagogy Certificate Program. At Baruch he directs two ed tech software projects -- [Blogs@Baruch](http://blogs.baruch.cuny.edu), a large WordPress/Buddypress network, and [Vocat](http://vocat.io), a homegrown video and media evaluation platform -- that enhance teaching and learning at the College. He also supports Baruch's development of online and hybrid courses, co-coordinates the Writing Across the Curriculum program, and manages Quantitative Reasoning and Multimedia Fellows. Trained as a historian, he has published essays on the place of pedagogy in the digital humanities and on the integration of open source digital tools into undergraduate history curricula. He hass taught courses in cultural, social, and digital history, as well as both core courses in the GC's ITP program.
-
 ## Grading
 * 75% -- team project grade
 * 25% -- individual grade, based on lab journals, faculty consultations and your contributions to the team project.
 
-## Project Guidelines
-The
 
 # Week by Week
 
