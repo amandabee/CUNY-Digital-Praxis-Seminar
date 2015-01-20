@@ -3,7 +3,7 @@ MALS 75500/IDS  81640
 
 Tuesdays, 4:15-6:15, Room 6495
 
-Profs. Amanda Hickman (email?) and [Luke Waltzer](lwaltzer@gmail.com) (lwaltzer@gmail.com)
+Profs. Amanda Hickman <amanda.hickman@journalism.cuny.edu> and [Luke Waltzer](lwaltzer@gmail.com) (lwaltzer@gmail.com)
 
 
 
@@ -64,6 +64,7 @@ The
 ## Week 1 | Feb 03
 **Discussion** Welcome.
 Introductions, logistics, project descriptions
+
 ## Week 2 | Feb 10
 **Decision Day**  project abstracts and pitches, team formation
 
