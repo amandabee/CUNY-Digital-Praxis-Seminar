@@ -42,21 +42,20 @@ Each team should also create a social media presence for their projects and use 
 ## Individual Lab Journals
 Each student will keep an individual journal that should be used to catalogue weekly activities and progress, explore sticky questions, share personal reflections, and work through problems. Journals can be posted publicly to the course blog or kept privately. They should be shared with both instructors every week and are due by midnight, Sunday.
 
-You must let Amanda and Luke know where you will be keeping your journal by midnight, February 8th, when your first reflection is due.  <font color="red">*too soon?*</font>
+You must let Amanda and Luke know where you will be keeping your journal by midnight, February 8th, when your first reflection is due.
 
 
 ## Project Requirements
-• Projects should relate to the digital humanities as explored through the Fall semester  
-• Project plans should address all aspects of the project life cycle, from development to deployment to testing to launch to sustainability.  
-• Projects must be public and project code must be open source and accessible online  
-• All code must be logically organized and clearly documented  
-• A prototype of the project must be realized by the end of the semester  
-• Projects will be launched publicly at the final class of the year  
+* Projects should relate to the digital humanities as explored through the Fall semester  
+* Project plans should address all aspects of the project life cycle, from development to deployment to testing to launch to sustainability.  
+* Projects must be public and project code must be open source and accessible online  
+* All code must be logically organized and clearly documented  
+* A prototype of the project must be realized by the end of the semester  
+* Projects will be launched publicly at the final class of the year  
 
-## Project Report
-A final project report (15-20 pages) must be submitted by each team at the end of the semester.
-
-<font color="red">*do we also want to require an individual process paper from every student in the class?*</font>
+## Project Report and Personal Reflection
+* A final project report (15-20 pages) must be submitted by each team at the end of the semester.
+* Each student in the class will also submit a paper (3-5 pages) that details their contributions to the project and how the experience of working on it fits into the arc of their professional development and interests.  
 
 ## Grading
 * 75% -- team project grade
@@ -67,10 +66,11 @@ A final project report (15-20 pages) must be submitted by each team at the end o
 
 ## Week 1 | Feb 03
 **Discussion** Welcome.
-Introductions, logistics, identification of potential projects
+Introductions, logistics, role defintion, discussion of potential projects
 
 ## Week 2 | Feb 10
-**Decision Day**  project abstracts and pitches, team formation
+**Decision Day**  
+elevator pitches, team formation, preliminary planning
 
 ## Week 3 | Feb 17
 **Due:** Draft Project Plans
