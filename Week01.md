@@ -2,7 +2,7 @@
 Who are you, who are we
 
 ## Syllabus Review: 15 min
-How is the semeter going to proceed.
+How is the semester going to proceed.
 
 ## Your Projects: 20 min
 I want to hear, in 140 chars or less, what your pitch was last semester. So take five minutes to refine a description of what you are proposing to build, and we'll do a lightning round. If you really hate your pitch, you have five minutes to think of something you wish you'd pitched. No commitments, I just want to see where you all are coming from.
