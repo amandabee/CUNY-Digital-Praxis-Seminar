@@ -29,13 +29,13 @@ We're not going to get deep into philosophies of software development, but if yo
 
 Our goal is to get you to a good working *prototype* by the end of the semester. That means we need to deploy and test *something* halfway through the semester.
 
-## For next week... 
+## For next week...
 
-By Friday 2/6, 5pm, you need to ...
+*By Friday 2/6, 5pm, you need to ...*
 
 + let us know if you will be pitching your project in next week's class
 
-By Sunday 2/8, midnight, you need to ...
+*By Sunday 2/8, midnight, you need to ...*
 
-+ decide where/how you're going to keep your journal
++ decide where/how you're going to keep your journal. (please don't make us log into a new service, and do not plan just to send us Word docs).
 + post your first journal entry
