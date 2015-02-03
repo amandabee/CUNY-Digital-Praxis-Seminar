@@ -2,7 +2,8 @@
 
 > MALS 75500 | IDS  81640  
 > Tuesdays, 4:15-6:15, Room 6495  
-> Profs. Amanda Hickman (<amanda.hickman@journalism.cuny.edu>) and Luke Waltzer (<lwaltzer@gmail.com>)
+> Profs. Amanda Hickman (<amanda.hickman@journalism.cuny.edu>) and Luke Waltzer (<lwaltzer@gmail.com>)  
+> Course blog: [http://dhpraxis14.commons.gc.cuny.edu/](http://dhpraxis14.commons.gc.cuny.edu/)
 
 ##Overview
 Aiming to ensure that new students begin thinking about digital scholarship and teaching from the moment they enter the Graduate Center, this year-long sequence of two three-credit courses introduces a variety of digital tools and digital methods through lectures offered by high-profile scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and established a digital portfolio that can be used to display their work. The two connected three-credit courses will be offered during the Fall and Spring semesters as MALS classes for master’s students and Interdisciplinary Studies courses for doctoral students.
