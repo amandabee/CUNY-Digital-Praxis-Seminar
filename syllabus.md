@@ -15,7 +15,7 @@ The class will hold a public event at the end of the semester to launch its proj
 #About the Faculty
 **Amanda Hickman** teaches data analysis and visualization at CUNY Graduate School of Jouranlism. She works at the intersection of journalism and civic engagement, and values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School and CUNY Graduate School of Journalism.
 
-Office Hours: Tuesdays 3:15-4:00 in room 4103 or by appointment at the Graduate School of Journalism, 219 West 40th Street, Room 419i
+Office Hours: Tuesdays 3:15-4:00 in room 4103 or by appointment at the Graduate School of Journalism, 219 West 40th Street, Room 419i. (gtalk: moraving@gmail.com, AIM: amandahlinc, Skype: amandabee). I'm generally available at the Journalism School on Tuesdays, 9-3 and Wednesdays 9-1.
 
 
 
