@@ -74,12 +74,12 @@ Introductions, logistics, role defintion, discussion of potential projects
 elevator pitches, team formation, preliminary planning
 
 ## Week 3 | Feb 17
-**Due:** Draft Project Plans
+**Due Midnight Sunday:** [Draft Project Plans](http://dhpraxis14.commons.gc.cuny.edu/2015/02/10/1008/), Journals 
 
 **In Class:** Role meetings
 
 ## Week 4 | Feb 24
-**Due:** Draft project outreach plans
+**Due Midnight Sunday:** Draft project outreach plans, Journal Entries
 
 **Presenting Project:** TBD
 
