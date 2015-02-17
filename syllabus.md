@@ -79,22 +79,23 @@ elevator pitches, team formation, preliminary planning
 **In Class:** Role meetings
 
 ## Week 4 | Feb 24
-**Due Midnight Sunday:** Draft project outreach plans, Journal Entries
+**Due Midnight Sunday:** Group project update posted to Commons blog or your project blog, Personal Journal Entries
 
-**Presenting Project:** TBD
+**Presenting Project:** CUNY Cast
 
 ## Week 5 | Mar 03
-**Due:**
+**Due Midnight Sunday:** Draft project outreach plans, Journal Entries
+**Presenting Project:** Fashion
 
-**Presenting Project:** TBD
 ## Week 6 | Mar 10
 **Due:**
 
-**Presenting Project:** TBD
+**Presenting Project:** HUAC
+
 ## Week 7 | Mar 17
 **Due:**
 
-**Presenting Project:** TBD
+**Presenting Project:** Tandem
 ## Week 8 | Mar 24
 **Due:**
 
