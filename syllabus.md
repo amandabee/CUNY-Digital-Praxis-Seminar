@@ -84,7 +84,7 @@ elevator pitches, team formation, preliminary planning
 **Presenting Project:** CUNY Cast
 
 ## Week 5 | Mar 03
-**Due Midnight Sunday:** Draft project outreach plans, Journal Entries
+**Due Midnight Sunday:** Draft project outreach plans, Journal Entries  
 **Presenting Project:** Fashion
 
 ## Week 6 | Mar 10
