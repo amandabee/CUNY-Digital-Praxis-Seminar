@@ -7,6 +7,7 @@
 * Articulation of data flow
 * Identification of technologies deployed (or at the least, the moments they're deployed and the "magic" they do)
 
+![miracle](https://avionod.files.wordpress.com/2009/04/then-a-miracle-happens.gif?w=490)
 
 #### Initial Wireframing/Storyboarding in Project Groups
 * Site schematics (15 minutes)
