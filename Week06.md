@@ -2,6 +2,7 @@
 
 
 ### Announcements
+- Digital Fellow photography, 3/24
 - Domain experts discussion
 - Python support?
 
