@@ -84,27 +84,30 @@ elevator pitches, team formation, preliminary planning
 **Presenting Project:** CUNY Cast
 
 ## Week 5 | Mar 03
-**Due Midnight Sunday:** Draft project outreach plans, Journal Entries  
-**Presenting Project:** Fashion
+**Due Midnight Sunday:** Journal Entries  
+**Presenting Project:** Digital HUAC
 
 ## Week 6 | Mar 10
-**Due:**
-
-**Presenting Project:** HUAC
-
-## Week 7 | Mar 17
-**Due:**
+**Due Midnight Sunday:** 1-3 possible *Minimum* Viable Product descriptions, Journal Entries 
 
 **Presenting Project:** Tandem
+
+## Week 7 | Mar 17
+**Due Midnight Sunday:** Journal Entries 
+
+**Presenting Project:** Fashion Index
+
 ## Week 8 | Mar 24
 **Due:**
 
-**Presenting Project:** TBD
+**Presenting Project:** CUNYCast
 ## Week 9 | Mar 31
-**Due:**  
 
-**Presenting Project:** TBD
+**Due:**  
+**Presenting Project:** Digital HUAC
+
 ## Week 10 | Apr 07
+
 **Due:** Midterm check-in presentations
 
 ## Spring Break | Apr 14
@@ -113,6 +116,7 @@ elevator pitches, team formation, preliminary planning
 **Due:**  
 
 **Presenting Project:** TBD
+
 ## Week 12 | Apr 28
 **Due:**  
 
