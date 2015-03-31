@@ -108,8 +108,6 @@ elevator pitches, team formation, preliminary planning
 
 ## Spring Break | Apr 07
 
-**Due:** Midterm check-in presentations
-
 ## Week 10 | Apr 14
 
 **Presenting Projects:** Tandem, Fashion Index
