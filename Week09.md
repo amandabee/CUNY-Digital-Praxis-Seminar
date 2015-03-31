@@ -1,7 +1,5 @@
 ## Work Plan, Class Meeting March 31
 
-
-
 ### Presentation
 - DigitalHUAC
 
@@ -9,6 +7,8 @@
 
 - Copyright on your sites
 - Outreach plans
+- Work plans for Spring Break
+- Review calendar
 
 ### Group Meetings
 
