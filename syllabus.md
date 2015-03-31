@@ -106,25 +106,26 @@ elevator pitches, team formation, preliminary planning
 **Due:**  
 **Presenting Project:** Digital HUAC
 
-## Week 10 | Apr 07
+## Spring Break | Apr 07
 
 **Due:** Midterm check-in presentations
 
-## Spring Break | Apr 14
+## Week 10 | Apr 14
+
+**Presenting Projects:** Tandem, Fashion Index
 
 ## Week 11 | Apr 21
-**Due:**  
 
-**Presenting Project:** TBD
+**Presenting Projects:** Digital HUAC, CUNYCast
 
 ## Week 12 | Apr 28
-**Due:**  
 
-**Presenting Project:** TBD
+t-two weeks
+
 ## Week 13 | May 05
-**Due:**  
 
-**Presenting Project:** TBD
+t-one week
+
 ## Week 14 | May 12
 **Project Launch Dress Rehearsal**
 
