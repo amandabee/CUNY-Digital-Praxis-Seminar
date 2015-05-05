@@ -7,3 +7,12 @@ Some things we already know -- the first semester should include a hands on over
 + Course Evals (I have mine -- or can do May 12)
 
 + Final Papers
+
++ All-class discussion of final presentations
+
++ Group discussions of final presentations
+
++ All-class discussion of final presentations 
+
+
+
