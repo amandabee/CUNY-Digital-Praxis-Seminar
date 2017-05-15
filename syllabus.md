@@ -1,18 +1,18 @@
-#Digital  Praxis  Seminar, Spring 2015
+# Digital  Praxis  Seminar, Spring 2015
 
 > MALS 75500 | IDS  81640  
 > Tuesdays, 4:15-6:15, Room 6495  
 > Profs. Amanda Hickman (<amanda.hickman@journalism.cuny.edu>) and Luke Waltzer (<lwaltzer@gmail.com>)  
 > Course blog: [http://dhpraxis14.commons.gc.cuny.edu/](http://dhpraxis14.commons.gc.cuny.edu/)
 
-##Overview
+## Overview
 Aiming to ensure that new students begin thinking about digital scholarship and teaching from the moment they enter the Graduate Center, this year-long sequence of two three-credit courses introduces a variety of digital tools and digital methods through lectures offered by high-profile scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and established a digital portfolio that can be used to display their work. The two connected three-credit courses will be offered during the Fall and Spring semesters as MALS classes for master’s students and Interdisciplinary Studies courses for doctoral students.
 
 During the Fall 2014 semester, students explored the landscape of the digital humanities, exploring a range of ways of approaching DH work and coming up with potential projects to create. In Spring 2015, we will put those proposals into action by taking, as our goal, the production of a small number of those projects by the end of the semester. Students will split into teams and, by the end of the semester, create proofs of concept for DH projects. Students will end the class having gained hands-on experience in the planning, production, and dissemination of a digital humanities project and having picked up a variety of skills along the way.
 
 The class will hold a public event at the end of the semester to launch its projects. Students should not think of their work as student projects, but rather as real entries into a public dialogue on the use of digital tools in and around the academy. All projects should have a trajectory and timeline of their own that extends beyond the course itself. The Spring term is inspired by the work of the Praxis Program at the University of Virginia, and made possible by support from the Graduate Center Provost’s Office and the GC Digital Fellows Program.
 
-#About the Faculty
+# About the Faculty
 **Amanda Hickman** teaches data analysis and visualization at CUNY Graduate School of Jouranlism. She works at the intersection of journalism and civic engagement, and values reporting that makes it easier for individuals to participate in democratic processes. As program director at DocumentCloud, she helped reporters around the world analyze, annotate, and publish primary source documents. Amanda managed development of a series of games about public policy issues as Gotham Gazette‘s director of technology. She has spent more than a decade reporting on local and international events and working directly with community based organizations to understand, and draw their membership into, the political process. Amanda has taught at Columbia Graduate School of Journalism, NYU’s Gallatin School and CUNY Graduate School of Journalism.
 
 Office Hours: Tuesdays 3:15-4:00 in room 4103 or by appointment at the Graduate School of Journalism, 219 West 40th Street, Room 419i. (gtalk: moraving@gmail.com, AIM: amandahlinc, Skype: amandabee). I'm generally available at the Journalism School on Tuesdays, 9-3 and Wednesdays 9-1.
@@ -23,7 +23,7 @@ Office Hours: Tuesdays 3:15-4:00 in room 4103 or by appointment at the Graduate 
 
 Office Hours: by appointment on phone, chat (GTalk: lwaltzer@gmail.com AIM: skywaltzer@mac.com), or in meatspace at Baruch College.
 
-#About the Course
+# About the Course
 ## Learning Objectives
 Students will...
 * gain hands-on experience in the planning, production, and dissemination of a digital humanities project  
